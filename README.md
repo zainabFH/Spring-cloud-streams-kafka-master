@@ -9,9 +9,6 @@
 
 
 
-<img width="1440" alt=lien2.png src="./assets/lien%202.PNG">
-
-
 
 
 
